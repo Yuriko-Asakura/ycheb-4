@@ -1,0 +1,22 @@
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\bin\Debug\ychebnay practica.exe.config
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\bin\Debug\ychebnay practica.exe
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\bin\Debug\ychebnay practica.pdb
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica.csproj.AssemblyReference.cache
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\App.g.cs
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica_MarkupCompile.cache
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica_MarkupCompile.lref
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica.g.resources
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay_practica.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica.exe
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\ychebnay practica.pdb
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\Charactes.g.cs
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\Charactes.baml
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\classs.g.cs
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\element.g.cs
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\classs.baml
+C:\Users\Анастасия\source\repos\ychebnay practica\ychebnay practica\obj\Debug\element.baml

@@ -1,0 +1,42 @@
+﻿<Window x:Class="ychebnay_practica.classs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ychebnay_practica"
+        mc:Ignorable="d"
+        Title="classs" Height="450" Width="800">
+    <Grid x:Name="ycheb1">
+        <Grid.Background>
+            <ImageBrush ImageSource="/фон.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="69*"/>
+            <ColumnDefinition Width="258*"/>
+            <ColumnDefinition Width="87*"/>
+            <ColumnDefinition Width="170*"/>
+            <ColumnDefinition Width="62*"/>
+            <ColumnDefinition Width="97*"/>
+            <ColumnDefinition Width="42*"/>
+            <ColumnDefinition Width="15*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+        <DataGrid x:Name="ycheb" Grid.Column="1" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,48,0,48" Grid.RowSpan="9"/>
+        <TextBox x:Name="tx" Grid.Column="3" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Копейщик" VerticalAlignment="Center" Width="170" Height="48" Grid.Row="1" BorderBrush="#FF192854" Background="White" FontFamily="Arial" FontSize="20" TextAlignment="Center"/>
+        <TextBox x:Name="tx2" Grid.Column="3" HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" Text="Сап-ДПС" VerticalAlignment="Center" Width="170" Height="49" BorderBrush="#FF0B1840" FontFamily="Arial" FontSize="20" TextAlignment="Center"/>
+        <Button x:Name="dob" Grid.Column="5" Content="Добавить" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" Height="48" Width="97" Background="#FFDDDDDD" FontFamily="Arial Black" FontSize="16" Click="dob_Click"/>
+        <Button x:Name="del" Grid.Column="5" Content="Удалить" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Bottom" Height="48" Width="97" FontFamily="Arial Black" FontSize="16" Margin="0,0,0,48" Grid.RowSpan="2" Click="del_Click"/>
+        <Button x:Name="izm" Grid.Column="5" Content="Изменить" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" Height="48" Width="97" FontFamily="Arial Black" FontSize="16" Click="izm_Click"/>
+    </Grid>
+</Window>
